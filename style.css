@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', "Times new Roman";
+}
+
+.header, .footer {
+    background-color: #1F2937;
+}
+
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.headlink {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.primary-button {
+    color: #3882f6;
+}
+
+.information {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
