@@ -5,10 +5,8 @@ This is a project made to practice the usage of HTML, CSS and flexbox.
 
 Images used:
 
-Jellyfish picture - Taken from my camera.
+All art by Alexej Sachov.
 
-Woman staring at the sea - Found on http://pinterest.com/ from "Ouste1n".
+"Neptune's Steed", "The Knight" , "The Ballerina, "Aqua Guard".
 
-Man Staring at the abyss - Found on https://www.tumblr.com/ from "virgo and pisces".
-
-Girl underwater - https://www.meer.com/en/68768-insights-on-a-continuing-journey from "Arsenio Rodriguez".
+https://sachov-art.com/
